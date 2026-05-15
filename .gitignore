@@ -1,0 +1,17 @@
+# Local environments
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+*.swp
+
+# Large regenerated caches that should not be added accidentally
+data/
+cache/
+two_dataset_final_artifacts_smoke/
+
+# Keep the curated artifacts already included in this package.
+# If adding more large model/data files, use Git LFS or submit them as a separate zip.

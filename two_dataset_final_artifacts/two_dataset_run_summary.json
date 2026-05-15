@@ -1,0 +1,15 @@
+{
+  "artifact_dir": "./two_dataset_final_artifacts",
+  "smoke": false,
+  "device": "mps",
+  "experiments": [
+    "kvasir_no_caption",
+    "kvasir_caption",
+    "x1_no_caption",
+    "kvasir_to_x1",
+    "x1_to_kvasir",
+    "combined_no_caption"
+  ],
+  "qualitative_rows": 70,
+  "metrics_path": "./two_dataset_final_artifacts/two_dataset_experiment_comparison.csv"
+}

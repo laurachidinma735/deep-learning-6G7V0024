@@ -1,0 +1,987 @@
+{
+  "0": {
+    "precision": 0.9752186588921283,
+    "recall": 0.9867256637168141,
+    "f1-score": 0.9809384164222874,
+    "support": 678.0
+  },
+  "1": {
+    "precision": 0.9228395061728395,
+    "recall": 0.9285714285714286,
+    "f1-score": 0.9256965944272446,
+    "support": 644.0
+  },
+  "11-20mm": {
+    "precision": 0.4264705882352941,
+    "recall": 0.5471698113207547,
+    "f1-score": 0.4793388429752066,
+    "support": 53.0
+  },
+  "11-20mm;5-10mm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "11-20mm;<5mm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "11-20mm;>20mm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "2": {
+    "precision": 0.8313253012048193,
+    "recall": 0.8165680473372781,
+    "f1-score": 0.8238805970149253,
+    "support": 169.0
+  },
+  "3": {
+    "precision": 0.14285714285714285,
+    "recall": 0.1,
+    "f1-score": 0.11764705882352941,
+    "support": 10.0
+  },
+  "4": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "5": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "5-10mm": {
+    "precision": 0.5227272727272727,
+    "recall": 0.3898305084745763,
+    "f1-score": 0.44660194174757284,
+    "support": 59.0
+  },
+  "5-10mm;<5mm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "<5mm": {
+    "precision": 0.34285714285714286,
+    "recall": 0.46153846153846156,
+    "f1-score": 0.39344262295081966,
+    "support": 26.0
+  },
+  ">20": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7.0
+  },
+  ">20mm": {
+    "precision": 0.5757575757575758,
+    "recall": 0.6551724137931034,
+    "f1-score": 0.6129032258064516,
+    "support": 29.0
+  },
+  "barretts; oesophagitis": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "biopsy forceps": {
+    "precision": 0.6,
+    "recall": 0.47368421052631576,
+    "f1-score": 0.5294117647058824,
+    "support": 19.0
+  },
+  "biopsy forceps; tube": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "black": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "cecum": {
+    "precision": 0.23333333333333334,
+    "recall": 0.3181818181818182,
+    "f1-score": 0.2692307692307692,
+    "support": 22.0
+  },
+  "center": {
+    "precision": 0.11538461538461539,
+    "recall": 0.2,
+    "f1-score": 0.14634146341463414,
+    "support": 15.0
+  },
+  "center-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center-left; center-right; lower-center; lower-left; lower-rigth; upper-center; upper-left; upper-right": {
+    "precision": 0.1111111111111111,
+    "recall": 0.2,
+    "f1-score": 0.14285714285714285,
+    "support": 5.0
+  },
+  "center-left; lower-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center-left; lower-left; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center-left; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center-left; upper-left": {
+    "precision": 0.38461538461538464,
+    "recall": 0.4166666666666667,
+    "f1-score": 0.4,
+    "support": 12.0
+  },
+  "center-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center-right; lower-center; lower-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center-right; lower-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center-right; lower-right; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center-right; lower-rigth": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center-right; upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center-right; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8.0
+  },
+  "center; center-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-right": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right": {
+    "precision": 0.944,
+    "recall": 0.9111969111969112,
+    "f1-score": 0.9273084479371316,
+    "support": 259.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-rigth": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-rigth; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-rigth; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-rigth; upper-center; upper-left; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; lower-rigth; upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-left; center-right; lower-center; lower-left; upper-center; upper-left; upper-right": {
+    "precision": 0.5,
+    "recall": 0.2,
+    "f1-score": 0.2857142857142857,
+    "support": 5.0
+  },
+  "center; center-left; center-right; lower-center; lower-right; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center; center-left; center-right; lower-center; lower-right; upper-center; upper-left; upper-right": {
+    "precision": 0.5217391304347826,
+    "recall": 0.75,
+    "f1-score": 0.6153846153846154,
+    "support": 32.0
+  },
+  "center; center-left; center-right; lower-center; lower-rigth; upper-center; upper-left; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center; center-left; center-right; lower-center; upper-center": {
+    "precision": 0.04,
+    "recall": 0.5,
+    "f1-score": 0.07407407407407407,
+    "support": 2.0
+  },
+  "center; center-left; center-right; lower-center; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5.0
+  },
+  "center; center-left; center-right; lower-center; upper-center; upper-left; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center; center-left; center-right; lower-center; upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; center-right; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-left; center-right; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; center-right; upper-center; upper-left; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-left; center-right; upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-left; lower-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center; center-left; lower-center; lower-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12.0
+  },
+  "center; center-left; lower-center; lower-left; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; lower-center; lower-left; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11.0
+  },
+  "center; center-left; lower-center; lower-left; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center; center-left; lower-center; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-left; lower-center; upper-center; upper-left": {
+    "precision": 0.25,
+    "recall": 0.375,
+    "f1-score": 0.3,
+    "support": 8.0
+  },
+  "center; center-left; lower-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-left; lower-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-left; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center; center-left; upper-center; upper-left": {
+    "precision": 0.18181818181818182,
+    "recall": 0.16,
+    "f1-score": 0.1702127659574468,
+    "support": 25.0
+  },
+  "center; center-left; upper-left": {
+    "precision": 0.16666666666666666,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.16666666666666666,
+    "support": 6.0
+  },
+  "center; center-right": {
+    "precision": 0.3,
+    "recall": 0.6,
+    "f1-score": 0.4,
+    "support": 5.0
+  },
+  "center; center-right; lower-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center; center-right; lower-center; lower-right": {
+    "precision": 0.13333333333333333,
+    "recall": 0.25,
+    "f1-score": 0.17391304347826086,
+    "support": 16.0
+  },
+  "center; center-right; lower-center; lower-right; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-right; lower-center; lower-right; upper-center; upper-right": {
+    "precision": 0.375,
+    "recall": 0.2,
+    "f1-score": 0.2608695652173913,
+    "support": 15.0
+  },
+  "center; center-right; lower-center; lower-right; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center; center-right; lower-center; lower-rigth": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "center; center-right; lower-center; lower-rigth; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center; center-right; lower-center; lower-rigth; upper-center; upper-right": {
+    "precision": 0.13043478260869565,
+    "recall": 0.5,
+    "f1-score": 0.20689655172413793,
+    "support": 6.0
+  },
+  "center; center-right; lower-center; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center; center-right; lower-center; upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-right; lower-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-right; lower-right; upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-right; lower-right; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "center; center-right; upper-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "center; center-right; upper-center; upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "center; center-right; upper-center; upper-left; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; center-right; upper-center; upper-right": {
+    "precision": 0.3333333333333333,
+    "recall": 0.23076923076923078,
+    "f1-score": 0.2727272727272727,
+    "support": 13.0
+  },
+  "center; center-right; upper-right": {
+    "precision": 0.25,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.2,
+    "support": 6.0
+  },
+  "center; lower-center": {
+    "precision": 0.19047619047619047,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.22857142857142856,
+    "support": 14.0
+  },
+  "center; lower-center; lower-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; lower-center; lower-right": {
+    "precision": 0.5333333333333333,
+    "recall": 0.6153846153846154,
+    "f1-score": 0.5714285714285714,
+    "support": 13.0
+  },
+  "center; lower-center; upper-center": {
+    "precision": 0.2,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.18181818181818182,
+    "support": 6.0
+  },
+  "center; upper-center": {
+    "precision": 0.3888888888888889,
+    "recall": 0.30434782608695654,
+    "f1-score": 0.34146341463414637,
+    "support": 23.0
+  },
+  "center; upper-center; upper-left": {
+    "precision": 0.5,
+    "recall": 0.14285714285714285,
+    "f1-score": 0.2222222222222222,
+    "support": 7.0
+  },
+  "center; upper-center; upper-left; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "center; upper-center; upper-right": {
+    "precision": 0.3333333333333333,
+    "recall": 0.25,
+    "f1-score": 0.2857142857142857,
+    "support": 4.0
+  },
+  "colonoscopy": {
+    "precision": 0.9977220956719818,
+    "recall": 0.9977220956719818,
+    "f1-score": 0.9977220956719818,
+    "support": 439.0
+  },
+  "flesh": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "flesh; red": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10.0
+  },
+  "flesh; red; white": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "flesh; white": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "flesh; white; red": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "gastroscopy": {
+    "precision": 0.9932432432432432,
+    "recall": 0.9932432432432432,
+    "f1-score": 0.9932432432432432,
+    "support": 148.0
+  },
+  "ileum": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "lower-center": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7.0
+  },
+  "lower-center; lower-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "lower-center; lower-right": {
+    "precision": 0.3888888888888889,
+    "recall": 0.4117647058823529,
+    "f1-score": 0.4,
+    "support": 17.0
+  },
+  "lower-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5.0
+  },
+  "metal clip": {
+    "precision": 0.6666666666666666,
+    "recall": 0.4,
+    "f1-score": 0.5,
+    "support": 5.0
+  },
+  "metal clip; tube": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "nan": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10.0
+  },
+  "no": {
+    "precision": 0.9326599326599326,
+    "recall": 0.8935483870967742,
+    "f1-score": 0.9126853377265239,
+    "support": 1240.0
+  },
+  "none": {
+    "precision": 0.9605177993527508,
+    "recall": 0.9380530973451328,
+    "f1-score": 0.9491525423728814,
+    "support": 1582.0
+  },
+  "not relevant": {
+    "precision": 0.9511111111111111,
+    "recall": 0.9344978165938864,
+    "f1-score": 0.9427312775330396,
+    "support": 458.0
+  },
+  "oesophagitis": {
+    "precision": 1.0,
+    "recall": 0.993006993006993,
+    "f1-score": 0.9964912280701754,
+    "support": 143.0
+  },
+  "oesophagitis; polyp": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "oesophagitis; short-segment barretts": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "paris iia": {
+    "precision": 0.2909090909090909,
+    "recall": 0.37209302325581395,
+    "f1-score": 0.32653061224489793,
+    "support": 43.0
+  },
+  "paris iia; paris is": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "paris ip": {
+    "precision": 0.5098039215686274,
+    "recall": 0.65,
+    "f1-score": 0.5714285714285714,
+    "support": 80.0
+  },
+  "paris ip; paris is": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "paris is": {
+    "precision": 0.34210526315789475,
+    "recall": 0.19402985074626866,
+    "f1-score": 0.24761904761904763,
+    "support": 67.0
+  },
+  "pink": {
+    "precision": 0.40425531914893614,
+    "recall": 0.4318181818181818,
+    "f1-score": 0.4175824175824176,
+    "support": 44.0
+  },
+  "pink; brown": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "pink; red": {
+    "precision": 0.52,
+    "recall": 0.5492957746478874,
+    "f1-score": 0.5342465753424658,
+    "support": 71.0
+  },
+  "pink; red; brown": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "pink; red; orange": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "pink; red; white": {
+    "precision": 0.8602150537634409,
+    "recall": 0.837696335078534,
+    "f1-score": 0.8488063660477454,
+    "support": 191.0
+  },
+  "pink; red; white; brown": {
+    "precision": 0.25,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.2857142857142857,
+    "support": 3.0
+  },
+  "pink; red; white; grey": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "pink; red; white; yellow": {
+    "precision": 0.16666666666666666,
+    "recall": 0.09090909090909091,
+    "f1-score": 0.11764705882352941,
+    "support": 11.0
+  },
+  "pink; red; yellow": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "pink; red; yellow; white": {
+    "precision": 0.09090909090909091,
+    "recall": 0.25,
+    "f1-score": 0.13333333333333333,
+    "support": 4.0
+  },
+  "pink; white": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 18.0
+  },
+  "pink; white; red": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "pink; white; yellow": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "pink; yellow": {
+    "precision": 0.2857142857142857,
+    "recall": 0.5,
+    "f1-score": 0.36363636363636365,
+    "support": 4.0
+  },
+  "pink; yellow; white": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5.0
+  },
+  "polyp": {
+    "precision": 0.9880239520958084,
+    "recall": 0.9821428571428571,
+    "f1-score": 0.9850746268656716,
+    "support": 168.0
+  },
+  "polyp snare": {
+    "precision": 0.2727272727272727,
+    "recall": 0.75,
+    "f1-score": 0.4,
+    "support": 4.0
+  },
+  "polyp snare; tube": {
+    "precision": 0.09090909090909091,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.14285714285714285,
+    "support": 3.0
+  },
+  "red": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1-score": 0.25,
+    "support": 4.0
+  },
+  "red; flesh": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3.0
+  },
+  "red; flesh; white": {
+    "precision": 0.25,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.2857142857142857,
+    "support": 3.0
+  },
+  "red; pink": {
+    "precision": 0.17857142857142858,
+    "recall": 0.25,
+    "f1-score": 0.20833333333333334,
+    "support": 20.0
+  },
+  "red; pink; brown": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "red; pink; orange": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "red; pink; white": {
+    "precision": 0.07692307692307693,
+    "recall": 0.2,
+    "f1-score": 0.1111111111111111,
+    "support": 5.0
+  },
+  "red; pink; yellow": {
+    "precision": 0.07692307692307693,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.10526315789473684,
+    "support": 6.0
+  },
+  "red; white; flesh": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "red; white; pink": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "tube": {
+    "precision": 0.9316239316239316,
+    "recall": 0.9008264462809917,
+    "f1-score": 0.9159663865546218,
+    "support": 121.0
+  },
+  "ulcerative colitis": {
+    "precision": 0.9738562091503268,
+    "recall": 0.9867549668874173,
+    "f1-score": 0.9802631578947368,
+    "support": 151.0
+  },
+  "upper-center": {
+    "precision": 0.3333333333333333,
+    "recall": 0.5,
+    "f1-score": 0.4,
+    "support": 6.0
+  },
+  "upper-center; upper-left": {
+    "precision": 0.2857142857142857,
+    "recall": 0.2222222222222222,
+    "f1-score": 0.25,
+    "support": 9.0
+  },
+  "upper-center; upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "upper-left": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5.0
+  },
+  "upper-right": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "white; flesh": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1.0
+  },
+  "white; red; flesh": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "yellow": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "yes": {
+    "precision": 0.8627630375114365,
+    "recall": 0.9128751210067764,
+    "f1-score": 0.8871119473189087,
+    "support": 1033.0
+  },
+  "z-line": {
+    "precision": 0.9921259842519685,
+    "recall": 0.9921259842519685,
+    "f1-score": 0.9921259842519685,
+    "support": 127.0
+  },
+  "accuracy": 0.8523080465062738,
+  "macro avg": {
+    "precision": 0.19525764146014227,
+    "recall": 0.208769579641305,
+    "f1-score": 0.19509671187551608,
+    "support": 8687.0
+  },
+  "weighted avg": {
+    "precision": 0.8549206656494543,
+    "recall": 0.8523080465062738,
+    "f1-score": 0.852253763337833,
+    "support": 8687.0
+  }
+}

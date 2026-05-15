@@ -1,0 +1,2 @@
+experiment,train_dataset,test_dataset,caption_use,accuracy,macro_f1,weighted_f1,balanced_accuracy
+per_question_head_caption_benchmark,Kvasir-VQA,Kvasir-VQA,caption features,0.863474156786002,0.2190559998749129,0.8646458281900411,

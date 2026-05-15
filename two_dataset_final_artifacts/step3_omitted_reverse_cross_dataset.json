@@ -1,0 +1,5 @@
+{
+  "experiment": "x1_to_kvasir",
+  "omitted_from_main_notebook": true,
+  "reason": "Reverse cross-dataset direction was weaker and is omitted to keep the final analysis clear."
+}

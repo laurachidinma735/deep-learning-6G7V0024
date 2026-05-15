@@ -1,0 +1,29 @@
+{
+  "experiment": "question_masked_neural_caption_model",
+  "dataset": "Kvasir-VQA",
+  "uses_qwen_captions": true,
+  "test_loss": 1.607170413192814,
+  "test_accuracy": 0.8517324738114423,
+  "test_macro_f1": 0.20445467377575305,
+  "test_weighted_f1": 0.8509571108702936,
+  "test_precision_macro": 0.21988194915457507,
+  "test_recall_macro": 0.2108604956504077,
+  "test_balanced_accuracy": 0.22125502712613204,
+  "best_epoch": 13,
+  "final_refit_epochs": 13,
+  "selected_config": {
+    "hidden_dim": 384,
+    "question_dim": 64,
+    "caption_svd_dim": 128,
+    "caption_max_features": 3000,
+    "dropout": 0.35,
+    "batch_size": 256,
+    "epochs": 30,
+    "patience": 6,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.001,
+    "class_weight_power": 0.5,
+    "max_class_weight": 6.0,
+    "warmup_ratio": 0.2
+  }
+}

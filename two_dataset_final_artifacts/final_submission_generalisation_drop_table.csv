@@ -1,0 +1,2 @@
+direction,in_dataset_accuracy,cross_dataset_accuracy,accuracy_drop,in_dataset_macro_f1,cross_dataset_macro_f1,macro_f1_drop
+Kvasir in-dataset -> X1 cross-dataset,0.8517324738114423,0.5020829327693392,0.3496495410421031,0.20445467377575305,0.0601922306131058,0.14426244316264725

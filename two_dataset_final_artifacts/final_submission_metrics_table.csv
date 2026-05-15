@@ -1,0 +1,4 @@
+experiment,train_dataset,test_dataset,caption_use,accuracy,macro_f1,weighted_f1,balanced_accuracy
+kvasir_caption_question_masked_mlp,Kvasir-VQA,Kvasir-VQA,Qwen captions,0.8517324738114423,0.204454673775753,0.8509571108702936,0.221255027126132
+x1_no_caption,Kvasir-VQA-x1,Kvasir-VQA-x1,no captions,0.9541728645124538,0.8730152257184085,0.95437019875633,0.8878386084649483
+kvasir_to_x1,Kvasir-VQA,Kvasir-VQA-x1,"Kvasir captions, empty X1 captions",0.5020829327693392,0.0601922306131058,0.4589574734791997,0.0801817397968174

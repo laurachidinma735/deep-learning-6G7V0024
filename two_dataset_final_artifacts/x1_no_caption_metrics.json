@@ -1,0 +1,53 @@
+{
+  "experiment": "x1_no_caption",
+  "eval_rows": 31597,
+  "test_loss": 1.3781234618738172,
+  "test_accuracy": 0.8660948824255468,
+  "test_macro_f1": 0.3456626554786045,
+  "weighted_f1": 0.8652029300540807,
+  "precision_macro": 0.3729545500039569,
+  "recall_macro": 0.3951322303891306,
+  "balanced_accuracy": 0.4072393460835051,
+  "bleu": 0.5104422715034193,
+  "meteor": 0.9210313183077222,
+  "rouge_l": 0.9175650393993114,
+  "dataset_train": [
+    "Kvasir-VQA-x1"
+  ],
+  "dataset_eval": [
+    "Kvasir-VQA-x1"
+  ],
+  "use_captions": false,
+  "config": {
+    "seed": 42,
+    "hidden_dim": 256,
+    "question_dim": 48,
+    "text_svd_dim": 96,
+    "text_max_features": 3000,
+    "dropout": 0.3,
+    "batch_size": 256,
+    "epochs": 15,
+    "patience": 4,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.001,
+    "class_weight_power": 0.5,
+    "max_class_weight": 6.0,
+    "use_question_mask": true,
+    "use_class_weights": true,
+    "optimizer_name": "adamw"
+  },
+  "frame_stats": {
+    "train_rows": 242726,
+    "val_rows": 42059,
+    "eval_rows_before_filter": 31622,
+    "eval_rows_after_filter": 31597,
+    "eval_rows_dropped_unseen_answer": 25,
+    "answer_classes": 469,
+    "question_classes": 19
+  },
+  "feature_info": {
+    "input_dim": 608,
+    "text_svd_dim": 96,
+    "text_features": 120
+  }
+}

@@ -1,0 +1,4 @@
+experiment,bleu_unigram,meteor,metric_source,rows
+kvasir_caption_question_masked_mlp,0.8871288816810919,0.5320550470680463,official_nltk,8687
+x1_no_caption,0.966931489658634,0.6040222774664181,official_nltk,31597
+kvasir_to_x1,0.5134730697591793,0.3006766305521277,official_nltk,31206

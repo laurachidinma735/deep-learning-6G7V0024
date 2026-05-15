@@ -1,0 +1,57 @@
+experiment,question_type,support,accuracy,macro_f1
+kvasir_caption_question_masked_mlp,What color is the anatomical landmark? If more than one separate with ;,11,0.09090909090909091,0.025974025974025976
+kvasir_caption_question_masked_mlp,Where in the image is the anatomical landmark?,304,0.4901315789473684,0.028996809641970933
+kvasir_caption_question_masked_mlp,What color is the abnormality? If more than one separate with ;,425,0.56,0.1246869980605541
+kvasir_caption_question_masked_mlp,Where in the image is the abnormality?,439,0.6287015945330297,0.05247686849975179
+kvasir_caption_question_masked_mlp,What type of polyp is present?,496,0.7459677419354839,0.35527196689303003
+kvasir_caption_question_masked_mlp,Where in the image is the instrument?,461,0.7462039045553145,0.15853492806434963
+kvasir_caption_question_masked_mlp,What is the size of the polyp?,480,0.76875,0.3035974314406762
+kvasir_caption_question_masked_mlp,Is this finding easy to detect?,589,0.8149405772495756,0.6652490123754492
+kvasir_caption_question_masked_mlp,Are there any anatomical landmarks in the image? Check all that are present.,303,0.8547854785478548,0.5111641713990707
+kvasir_caption_question_masked_mlp,Is there text?,589,0.8607809847198642,0.7708388688555703
+kvasir_caption_question_masked_mlp,Is there a green/black box artefact?,589,0.9015280135823429,0.8828849212879162
+kvasir_caption_question_masked_mlp,How many findings are present?,511,0.9099804305283757,0.41942609413707677
+kvasir_caption_question_masked_mlp,Are there any instruments in the image? Check all that are present.,471,0.910828025477707,0.4679481743919781
+kvasir_caption_question_masked_mlp,How many instrumnets are in the image?,527,0.9430740037950665,0.4679366624454231
+kvasir_caption_question_masked_mlp,How many polyps are in the image?,469,0.9488272921108742,0.3188956446766638
+kvasir_caption_question_masked_mlp,Have all polyps been removed?,589,0.9796264855687606,0.6511927788523533
+kvasir_caption_question_masked_mlp,Are there any abnormalities in the image? Check all that are present.,462,0.987012987012987,0.7412660511927076
+kvasir_caption_question_masked_mlp,What type of procedure is the image taken from?,587,0.9982964224872232,0.9977362565318832
+kvasir_caption_question_masked_mlp,Does this image contain any finding?,375,1.0,1.0
+kvasir_caption_question_masked_mlp,none,10,1.0,1.0
+x1_no_caption,landmark_color,54,0.6481481481481481,0.6264898116109189
+x1_no_caption,polyp_type,1959,0.8810617662072486,0.6866933589059024
+x1_no_caption,abnormality_color,1845,0.8937669376693766,0.8730033469525228
+x1_no_caption,abnormality_location,1898,0.8967334035827187,0.8836045888063465
+x1_no_caption,landmark_location,1222,0.9091653027823241,0.8158512637430791
+x1_no_caption,polyp_size,1936,0.9142561983471075,0.8754239015722606
+x1_no_caption,finding_count,2115,0.9456264775413712,0.9732012777906786
+x1_no_caption,instrument_location,1911,0.9612768184196756,0.8791740193806794
+x1_no_caption,text_presence,2454,0.965362673186634,0.9512908201211716
+x1_no_caption,box_artifact_presence,2319,0.9680896938335489,0.9612717759655087
+x1_no_caption,landmark_presence,1264,0.9683544303797469,0.9329321132400278
+x1_no_caption,instrument_count,2208,0.9814311594202898,0.9176369555149794
+x1_no_caption,instrument_presence,1837,0.9825802939575394,0.9380011777615206
+x1_no_caption,polyp_count,1900,0.9857894736842105,0.8980246208832833
+x1_no_caption,polyp_removal_status,2312,0.986159169550173,0.6565473177773598
+x1_no_caption,abnormality_presence,1823,0.9972572682391662,0.9586029777858651
+x1_no_caption,procedure_type,2303,0.9991315675206253,0.9988606567920291
+x1_no_caption,finding_presence,237,1.0,1.0
+kvasir_to_x1,abnormality_presence,1815,0.0,0.0
+kvasir_to_x1,abnormality_location,1814,0.018191841234840134,0.008488396247744442
+kvasir_to_x1,instrument_count,2208,0.057971014492753624,0.027923104865070048
+kvasir_to_x1,landmark_color,42,0.19047619047619047,0.10654761904761906
+kvasir_to_x1,finding_count,2114,0.25922421948912017,0.029963020252925944
+kvasir_to_x1,procedure_type,2303,0.31958315240990015,0.023191491463424824
+kvasir_to_x1,landmark_location,1144,0.39335664335664333,0.010414609835769894
+kvasir_to_x1,polyp_count,1900,0.49105263157894735,0.09791312891561442
+kvasir_to_x1,abnormality_color,1698,0.5365135453474676,0.12387013695091612
+kvasir_to_x1,polyp_type,1959,0.5809086268504339,0.03465813918075225
+kvasir_to_x1,instrument_location,1863,0.6049382716049383,0.013349367292758334
+kvasir_to_x1,polyp_size,1929,0.6433385173665112,0.08024325660935759
+kvasir_to_x1,text_presence,2454,0.6731866340668297,0.23780332056194128
+kvasir_to_x1,landmark_presence,1260,0.6992063492063492,0.09687917430660326
+kvasir_to_x1,instrument_presence,1835,0.8256130790190735,0.10226961071457286
+kvasir_to_x1,box_artifact_presence,2319,0.8663216903837861,0.32788534219824167
+kvasir_to_x1,finding_presence,237,0.8945147679324894,0.23608017817371937
+kvasir_to_x1,polyp_removal_status,2312,0.9282006920415224,0.1857003740953535

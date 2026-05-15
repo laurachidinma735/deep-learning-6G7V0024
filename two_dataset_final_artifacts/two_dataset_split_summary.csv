@@ -1,0 +1,7 @@
+dataset,split,rows,images,answers,questions,caption_coverage
+Kvasir-VQA,test,8687,975,142,20,1.0
+Kvasir-VQA,train,40785,4550,162,20,1.0
+Kvasir-VQA,val,8724,975,139,20,1.0
+Kvasir-VQA-x1,test,31622,4058,377,18,0.0
+Kvasir-VQA-x1,train,242726,5280,469,18,0.0
+Kvasir-VQA-x1,val,42238,932,233,18,0.0
